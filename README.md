@@ -1,4 +1,3 @@
-# MachineLearning
 Final Project for the Course Machine Learning - Pattern Recognition.
 
 ## Part 1: Data preprocessing, dimension reduction, image classification and visualization

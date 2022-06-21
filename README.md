@@ -8,5 +8,5 @@ Use 5-fold cross validation to report mean accuracy
 
 ## Part 2: regularized non-negative matrix factorization -regNMF
 
-Implementation of an iterative algorithm to approach the optimal solution for the problem:![image](https://user-images.githubusercontent.com/39140479/174625724-480d3fe0-dc26-4484-b219-15a51fdc06df.png)
- 
+Implementation of an iterative algorithm to approach the optimal solution for the problem: 
+$$\min_{W, C}∥X − WC∥^2_F + λ∥W∥^2_F + λ∥C∥^2_F s.t.W ≥ 0, C ≥ 0$$
